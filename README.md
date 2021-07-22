@@ -1,5 +1,7 @@
 # -
-存放一些平时积攒的电子书
+es6 环境搭建
+
+https://segmentfault.com/a/1190000021693432
 
 "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
